@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Nestremis/stacja-pogody.git/static/css/main.469c114d.chunk.css",
-    "main.js": "/Nestremis/stacja-pogody.git/static/js/main.2dc20ba7.chunk.js",
-    "main.js.map": "/Nestremis/stacja-pogody.git/static/js/main.2dc20ba7.chunk.js.map",
-    "runtime-main.js": "/Nestremis/stacja-pogody.git/static/js/runtime-main.9693b270.js",
-    "runtime-main.js.map": "/Nestremis/stacja-pogody.git/static/js/runtime-main.9693b270.js.map",
-    "static/js/2.0c6c5a9b.chunk.js": "/Nestremis/stacja-pogody.git/static/js/2.0c6c5a9b.chunk.js",
-    "static/js/2.0c6c5a9b.chunk.js.map": "/Nestremis/stacja-pogody.git/static/js/2.0c6c5a9b.chunk.js.map",
-    "static/js/3.c86926c4.chunk.js": "/Nestremis/stacja-pogody.git/static/js/3.c86926c4.chunk.js",
-    "static/js/3.c86926c4.chunk.js.map": "/Nestremis/stacja-pogody.git/static/js/3.c86926c4.chunk.js.map",
-    "index.html": "/Nestremis/stacja-pogody.git/index.html",
-    "static/css/main.469c114d.chunk.css.map": "/Nestremis/stacja-pogody.git/static/css/main.469c114d.chunk.css.map",
-    "static/js/2.0c6c5a9b.chunk.js.LICENSE.txt": "/Nestremis/stacja-pogody.git/static/js/2.0c6c5a9b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Nestremis/stacja-pogody.git/static/media/P1050975.5620e552.JPG"
+    "main.css": "/stacja-pogody/static/css/main.d0a40ca7.chunk.css",
+    "main.js": "/stacja-pogody/static/js/main.2dc20ba7.chunk.js",
+    "main.js.map": "/stacja-pogody/static/js/main.2dc20ba7.chunk.js.map",
+    "runtime-main.js": "/stacja-pogody/static/js/runtime-main.b1e5c737.js",
+    "runtime-main.js.map": "/stacja-pogody/static/js/runtime-main.b1e5c737.js.map",
+    "static/js/2.0c6c5a9b.chunk.js": "/stacja-pogody/static/js/2.0c6c5a9b.chunk.js",
+    "static/js/2.0c6c5a9b.chunk.js.map": "/stacja-pogody/static/js/2.0c6c5a9b.chunk.js.map",
+    "static/js/3.c86926c4.chunk.js": "/stacja-pogody/static/js/3.c86926c4.chunk.js",
+    "static/js/3.c86926c4.chunk.js.map": "/stacja-pogody/static/js/3.c86926c4.chunk.js.map",
+    "index.html": "/stacja-pogody/index.html",
+    "static/css/main.d0a40ca7.chunk.css.map": "/stacja-pogody/static/css/main.d0a40ca7.chunk.css.map",
+    "static/js/2.0c6c5a9b.chunk.js.LICENSE.txt": "/stacja-pogody/static/js/2.0c6c5a9b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/stacja-pogody/static/media/P1050975.5620e552.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.9693b270.js",
+    "static/js/runtime-main.b1e5c737.js",
     "static/js/2.0c6c5a9b.chunk.js",
-    "static/css/main.469c114d.chunk.css",
+    "static/css/main.d0a40ca7.chunk.css",
     "static/js/main.2dc20ba7.chunk.js"
   ]
 }
