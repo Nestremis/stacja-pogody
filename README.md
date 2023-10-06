@@ -1,3 +1,5 @@
-Proste API
+Simple API
 
-# stacja-pogody
+# stacja-pogody 
+
+https://nestremis.github.io/stacja-pogody/
